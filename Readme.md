@@ -1,7 +1,9 @@
 # :musical_note: Welcome to Music Makes It
 
-A group poject for Coder Academy - T3A2-A - Full Stack App, Part A and Part B documentation.
+A group project for Coder Academy - T3A2-A - Full Stack App, Part A and Part B documentation.
 You can find the authors of this organisation, repositories and project [here](https://github.com/Music-Makes-It/MMI-T3A2-Readme#authors).
+
+Here is the link to our GitHub repo - [Click here.](https://github.com/Music-Makes-It/MMI-T3A2-Readme)
 
 ## About our project, What is Music Makes It?
 
@@ -11,7 +13,7 @@ You can find the authors of this organisation, repositories and project [here](h
 The purpose of *Music Makes It*, is to re-purpose the profits collected from merchandise.
 Music artists have the potential to generate 10-35% of their revenue from merchandise sold at and during concerts. *Music Makes It*, is a side venture established by the team at *fake label name* where they believe that these profits, should be put back in to the community.
 
-The [Humpty Dumpty Foundation](https://humpty.com.au) mission is to ensure each child in the Australian hospital system have access to the correct equipment to support their treatment and recovery. For 30 years they have been providing this equipment to Paediatric Wards, Neonatal Units, Maternity and Emergency Departments in hospitals across Australia.
+The [Humpty Dumpty Foundation](https://humpty.com.au) mission is to ensure each child in the Australian hospital system have access to the correct equipment to support their treatment and recovery. For 30 years they have been providing this equipment to Pediatric Wards, Neonatal Units, Maternity and Emergency Departments in hospitals across Australia.
 
 *Music Makes It*, is part of a growing sector of companies which include the community in their model. As consumers are increasingly becoming more aware of their product choices, their origins and affect on communities, it is important to respond to this change in our communities and assist in giving back. Our signed artists at *fake music label* love being part of this initiative with our chosen organisation.
 
@@ -42,12 +44,14 @@ The target audience of Music Makes it *fake music label* are consumers of Music 
 **Target Audience Senarios**
 Those who would potentially shy away from purchasing merch at concerts.
 
-- Person X :  Merch stand at the concert was crowed:  I want to visits music makes it online store, browse a large variety of products and make ethical purchase.
-- Person X : Wants to purchase mum an offical t-shirt of favourite band : visits music makes it online store- make ethical purchase 
-- Person X :  Usually shops on ebay for their favourite band t-shirts but has heard there this ethical alternative : visits music makes it online store out of curiosity- make ethical purchase
-- Person X : Wants a cost affective Christmas or Birthday gift, that goes will please family member and also go to good cause - visits music makes it online store- make ethical purchase
+- Person X :  Merch stand at the concert was crowded: I want to visit *Music Makes It* online store, browse a large variety of products and make ethical purchase.
+- Person X : Wants to purchase mum an offical t-shirt of favourite band : visits *Music Makes It* online store- make ethical purchase 
+- Person X :  Usually shops on ebay for their favourite band t-shirts but has heard there is an ethical alternative : visits *Music Makes It* online store out of curiosity- make ethical purchase
+- Person X : Wants a cost effective Christmas or Birthday gift that goes with a family members style.
 
 ## Project Management
+
+Here is the link to our public Trello Board - [T3A2 Trello.](https://trello.com/b/A9VFk2sc/coder-academy-t3a2)
 
 Day One - 20/01/2022
 
@@ -60,6 +64,10 @@ Day Two - 21/01/2022
 Day Three - 25/01/2022
 
 ![Screen shot of our Trello board day 3](Resources/Trello-day3.png "Screen shot of our Trello board day 3")
+
+Day Four - 29/01/2022
+
+![Screen shot of our Trello board day 4](Resources/Trello-day4.png "Screen shot of our Trello board day 4")
 
 ## User Stories
 
@@ -135,7 +143,7 @@ I do not want other users to see the items in my checkout cart.
 
 ## Third Party Apps/Services
 
-Here are the third-party apps and services we used to develop the 'Music Makes It', porject.
+Here are the third-party apps and services we will use to develop the 'Music Makes It', project.
 
 - Devise. (Auth)
 - Heroku. (Cloud, Back-End)
@@ -151,9 +159,25 @@ Here are the third-party apps and services we used to develop the 'Music Makes I
 
 ## Application Architecture Diagram
 
+![Architecture Diagram created by Redgerald](Resources/software_acrti.jpg "Architecture Diagram")
+
 ## Entity Relationship Diagram (ERD)
 
+![ERD created by Redgerald](Resources/ER_diagram-1.png "Entity Relationship Diagram")
+
 ## Dataflow Diagram
+
+Admin Side Data Flow Diagram.
+
+![DFD created by Redgerald #1](Resources/Admin_Side-1.png "DFD Diagram Admin Side")
+
+Customer Side Data Flow Diagram.
+
+![DFD created by Redgerald #2](Resources/customer_side-1.png "DFD Diagram Customer Side")
+
+Payment Gateway Data Flow Diagram.
+
+![DFD created by Redgerald #3](Resources/payment_gateway-1.png "DFD Diagram Payment Gateway")
 
 ## Wireframes
 
@@ -190,15 +214,17 @@ This is our payment page.
 ![Wireframe created by Amy in Balsamiq #8](Resources/T3A2_Wireframes/Payment_Page(all).png "Wireframe of payment page")
 
 This is our receipt page.
+
 ![Wireframe created by Amy in Balsamiq #9](Resources/T3A2_Wireframes/Receipt_Page(all).png "Wireframe of receipt page")
 
 This is our wear it page.
+
 ![Wireframe created by Amy in Balsamiq #10](Resources/T3A2_Wireframes/Wear_It_Page(all).png "Wireframe of wear it page")
 
 ## Roadmap
 
 Our roadmap for the future of updates and versions to come is ...
-v1.0.1 will just be whatever we don't get done in time from our first submmison of Part A, for example if we dont get enough time to implement Stripe or something, then we list it here for the next update/future release.
+v1.0.1  that will be everything we as a team we're not able to execute within our given timeframe for our first submmison of Part A ...
 
 ## Want to join the repo and contribute?
 
