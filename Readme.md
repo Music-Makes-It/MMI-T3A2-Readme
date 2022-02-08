@@ -9,13 +9,13 @@ Here is the link to our GitHub repo - [Click here.](https://github.com/Music-Mak
 
 **What is our purpose?**
 
-*Music Makes it*, is an online store, where customers can safely search for and purchase music merchandise.
-The purpose of *Music Makes It*, is to re-purpose the profits collected from merchandise.
-Music artists have the potential to generate 10-35% of their revenue from merchandise sold at and during concerts. *Music Makes It*, is a side venture established by the team at *fake label name* where they believe that these profits, should be put back in to the community.
+_Music Makes it_, is an online store, where customers can safely search for and purchase music merchandise.
+The purpose of _Music Makes It_, is to re-purpose the profits collected from merchandise.
+Music artists have the potential to generate 10-35% of their revenue from merchandise sold at and during concerts. _Music Makes It_, is a side venture established by the team at _fake label name_ where they believe that these profits, should be put back in to the community.
 
 The [Humpty Dumpty Foundation](https://humpty.com.au) mission is to ensure each child in the Australian hospital system have access to the correct equipment to support their treatment and recovery. For 30 years they have been providing this equipment to Pediatric Wards, Neonatal Units, Maternity and Emergency Departments in hospitals across Australia.
 
-*Music Makes It*, is part of a growing sector of companies which include the community in their model. As consumers are increasingly becoming more aware of their product choices, their origins and affect on communities, it is important to respond to this change in our communities and assist in giving back. Our signed artists at *fake music label* love being part of this initiative with our chosen organisation.
+_Music Makes It_, is part of a growing sector of companies which include the community in their model. As consumers are increasingly becoming more aware of their product choices, their origins and affect on communities, it is important to respond to this change in our communities and assist in giving back. Our signed artists at _fake music label_ love being part of this initiative with our chosen organisation.
 
 ## What is our tech stack?
 
@@ -31,7 +31,7 @@ For our online store we decided to use the following tech stack to develop our p
 ## Who is our target audience?
 
 **Target Audience:**
-The target audience of Music Makes it *fake music label* are consumers of Music Merchandise, of the signed artists to the label.
+The target audience of Music Makes it _fake music label_ are consumers of Music Merchandise, of the signed artists to the label.
 
 **Range of Consumers and Online Store Users:**
 
@@ -44,9 +44,9 @@ The target audience of Music Makes it *fake music label* are consumers of Music 
 **Target Audience Senarios**
 Those who would potentially shy away from purchasing merch at concerts.
 
-- Person X :  Merch stand at the concert was crowded: I want to visit *Music Makes It* online store, browse a large variety of products and make ethical purchase.
-- Person X : Wants to purchase mum an offical t-shirt of favourite band : visits *Music Makes It* online store- make ethical purchase 
-- Person X :  Usually shops on ebay for their favourite band t-shirts but has heard there is an ethical alternative : visits *Music Makes It* online store out of curiosity- make ethical purchase
+- Person X : Merch stand at the concert was crowded: I want to visit _Music Makes It_ online store, browse a large variety of products and make ethical purchase.
+- Person X : Wants to purchase mum an offical t-shirt of favourite band : visits _Music Makes It_ online store- make ethical purchase
+- Person X : Usually shops on ebay for their favourite band t-shirts but has heard there is an ethical alternative : visits _Music Makes It_ online store out of curiosity- make ethical purchase
 - Person X : Wants a cost effective Christmas or Birthday gift that goes with a family members style.
 
 ## Project Management
@@ -69,9 +69,13 @@ Day Four - 29/01/2022
 
 ![Screen shot of our Trello board day 4](Resources/Trello-day4.png "Screen shot of our Trello board day 4")
 
+Day Five **Part B** - 08/02/2022
+
+![Screen shot of our Trello board day 5](Resources/Trello-day1-PartB.png "Screen shot of our Trello board day 5")
+
 ## User Stories
 
-The target audience of Music Makes it *fake music label* are consumers of Music Merchandise, of the signed artists to the label. Throughout the planning stages of Music Makes it, the goal was to create a range focused online store that empowers users to give back. The features revolve around maximising user experience and as we developed these, the personas , need and purpose of the stories fit together.
+The target audience of Music Makes it _fake music label_ are consumers of Music Merchandise, of the signed artists to the label. Throughout the planning stages of Music Makes it, the goal was to create a range focused online store that empowers users to give back. The features revolve around maximising user experience and as we developed these, the personas , need and purpose of the stories fit together.
 
 **Range of Consumers and Online Store Users:**
 
@@ -82,7 +86,7 @@ The target audience of Music Makes it *fake music label* are consumers of Music 
 - New customers to the online store.
 
 **Target Audience Scenarios and Persona’s – through the features of the application.**
-*Those that shy away from purchasing merch at concerts*
+_Those that shy away from purchasing merch at concerts_
 
 - I want to visits the online store and browse/search a large variety of products that are displayed cohesively.
 - I want to make ethical an purchase.
@@ -95,11 +99,11 @@ The target audience of Music Makes it *fake music label* are consumers of Music 
 - I want an order confirmation and order number.
 - I want to have an option to sign up for music merchandise product releases.
 
-**New customers to the online store,  Internet browser, referred customer:**
+**New customers to the online store, Internet browser, referred customer:**
 
 - I want to know the purpose of the website.
-- I want to navigation to flow,  be clear and easy to use.
-- I want to browse/search a large variety of products that are displayed cohesively.  
+- I want to navigation to flow, be clear and easy to use.
+- I want to browse/search a large variety of products that are displayed cohesively.
 - I want to make ethical an purchase.
 - I want to take my time and have a quick and efficient sale.
 - I want my personal details secure.
@@ -114,7 +118,7 @@ The target audience of Music Makes it *fake music label* are consumers of Music 
 **Individuals who would generally visit ebay, etsy, gumtree etc to purchase goods. The switch could be motivated by having an ethical alternative:**
 
 - I want to purchase a product as gift, that also makes a difference in the community
-- I want browse/search a large variety of products that are displayed cohesively.  
+- I want browse/search a large variety of products that are displayed cohesively.
 - I want to make ethical an purchase.
 - I want to take my time and have a quick and efficient sale.
 - I want my personal details secure.
@@ -183,48 +187,48 @@ Payment Gateway Data Flow Diagram.
 
 Welcome to our landing page.
 
-![Wireframe created by Amy in Balsamiq #1](Resources/T3A2_Wireframes/Landing_Page(all).png "Wireframe of landing page")
+![Wireframe created by Amy in Balsamiq #1](<Resources/T3A2_Wireframes/Landing_Page(all).png> "Wireframe of landing page")
 
 This is our about us page.
 
-![Wireframe created by Amy in Balsamiq #2](Resources/T3A2_Wireframes/About_Impact_Page(all).png "Wireframe of about page")
+![Wireframe created by Amy in Balsamiq #2](<Resources/T3A2_Wireframes/About_Impact_Page(all).png> "Wireframe of about page")
 
 This is our checkout page.
 
-![Wireframe created by Amy in Balsamiq #3](Resources/T3A2_Wireframes/Checkout_Page(all).png "Wireframe of checkout page")
+![Wireframe created by Amy in Balsamiq #3](<Resources/T3A2_Wireframes/Checkout_Page(all).png> "Wireframe of checkout page")
 
 This is our Login page.
 
-![Wireframe created by Amy in Balsamiq #4](Resources/T3A2_Wireframes/Login_Page(all).png "Wireframe of Login Page")
+![Wireframe created by Amy in Balsamiq #4](<Resources/T3A2_Wireframes/Login_Page(all).png> "Wireframe of Login Page")
 
 This is how our guests interact with out site.
 
-![Wireframe created by Amy in Balsamiq #5](Resources/T3A2_Wireframes/Login_Guest_Page(all).png "Wireframe of Login guest page")
+![Wireframe created by Amy in Balsamiq #5](<Resources/T3A2_Wireframes/Login_Guest_Page(all).png> "Wireframe of Login guest page")
 
 This is our delivery page.
 
-![Wireframe created by Amy in Balsamiq #6](Resources/T3A2_Wireframes/Delivery_Page(all).png "Wireframe of delivery page")
+![Wireframe created by Amy in Balsamiq #6](<Resources/T3A2_Wireframes/Delivery_Page(all).png> "Wireframe of delivery page")
 
 This is our items page.
 
-![Wireframe created by Amy in Balsamiq #7](Resources/T3A2_Wireframes/Item_Page(all).png "Wireframe of Item page")
+![Wireframe created by Amy in Balsamiq #7](<Resources/T3A2_Wireframes/Item_Page(all).png> "Wireframe of Item page")
 
 This is our payment page.
 
-![Wireframe created by Amy in Balsamiq #8](Resources/T3A2_Wireframes/Payment_Page(all).png "Wireframe of payment page")
+![Wireframe created by Amy in Balsamiq #8](<Resources/T3A2_Wireframes/Payment_Page(all).png> "Wireframe of payment page")
 
 This is our receipt page.
 
-![Wireframe created by Amy in Balsamiq #9](Resources/T3A2_Wireframes/Receipt_Page(all).png "Wireframe of receipt page")
+![Wireframe created by Amy in Balsamiq #9](<Resources/T3A2_Wireframes/Receipt_Page(all).png> "Wireframe of receipt page")
 
 This is our wear it page.
 
-![Wireframe created by Amy in Balsamiq #10](Resources/T3A2_Wireframes/Wear_It_Page(all).png "Wireframe of wear it page")
+![Wireframe created by Amy in Balsamiq #10](<Resources/T3A2_Wireframes/Wear_It_Page(all).png> "Wireframe of wear it page")
 
 ## Roadmap
 
 Our roadmap for the future of updates and versions to come is ...
-v1.0.1  that will be everything we as a team we're not able to execute within our given timeframe for our first submmison of Part A ...
+v1.0.1 that will be everything we as a team we're not able to execute within our given timeframe for our first submmison of Part A ...
 
 ## Want to join the repo and contribute?
 
