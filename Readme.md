@@ -73,7 +73,7 @@ Day Five **Part B** - 08/02/2022
 
 ![Screen shot of our Trello board day 5](Resources/Trello-day1-PartB.png "Screen shot of our Trello board day 5")
 
-Day Six **Part B** - 08/02/2022
+Day Six **Part B** - 10/02/2022
 
 ![Screen shot of our Trello board day 6](Resources/Trello-day2-PartB.png "Screen shot of our Trello board day 6")
 
