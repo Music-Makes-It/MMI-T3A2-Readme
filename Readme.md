@@ -1,6 +1,6 @@
 # :musical_note: Welcome to Music Makes It
 
-A group project for Coder Academy - T3A2-A - Full Stack App, Part A and Part B documentation.
+A group project for Coder Academy - Full Stack App, Part A and Part B documentation.
 You can find the authors of this organisation, repositories and project [here](https://github.com/Music-Makes-It/MMI-T3A2-Readme#authors).
 
 Here is the link to our GitHub repo - [Click here.](https://github.com/Music-Makes-It/MMI-T3A2-Readme)
@@ -72,6 +72,10 @@ Day Four - 29/01/2022
 Day Five **Part B** - 08/02/2022
 
 ![Screen shot of our Trello board day 5](Resources/Trello-day1-PartB.png "Screen shot of our Trello board day 5")
+
+Day Six **Part B** - 08/02/2022
+
+![Screen shot of our Trello board day 6](Resources/Trello-day2-PartB.png "Screen shot of our Trello board day 6")
 
 ## User Stories
 
@@ -243,7 +247,7 @@ Contributions are not only welcome but are what make the open source community a
 
 ## Authors
 
-Amy Droungas - Organising documentation and both front and back-end development. Wireframes and user stories. [Github]
+Amy Droungas - Organising documentation. [Github]
 
 Redgerald Nyamadzavo - Back-End development, Diagram specialist and Databasing. [Github]
 
