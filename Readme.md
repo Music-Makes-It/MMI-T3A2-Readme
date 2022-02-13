@@ -3,7 +3,17 @@
 A group project for Coder Academy - Full Stack App, Part A and Part B documentation.
 You can find the authors of this organisation, repositories and project [here](https://github.com/Music-Makes-It/MMI-T3A2-Readme#authors).
 
-Here is the link to our GitHub repo - [Click here.](https://github.com/Music-Makes-It/MMI-T3A2-Readme)
+## Deployment to Netlify
+
+Here is the link to our deployed website - [Click here.](/#)
+
+## Front-End Repository
+
+Here is the link to our Front-End GitHub repo - [Click here.](https://github.com/Music-Makes-It/MMI-Front-End)
+
+## Back-End Repository
+
+Here is the link to our Back-End GitHub repo - [Click here.](https://github.com/Music-Makes-It/music_make_it_api)
 
 ## About our project, What is Music Makes It?
 
@@ -27,6 +37,27 @@ For our online store we decided to use the following tech stack to develop our p
 - HTML5
 - Bootstrap 5
 - PostgreSQL
+
+## Libraries and Dependencies
+
+**Front-End**,
+
+- @testing-library/jest-dom": "^5.16.2",
+- @testing-library/react": "^12.1.2",
+- @testing-library/user-event": "^13.5.0",
+- bootstrap: "^5.1.3",
+- create-react-app: "^5.0.0",
+- font-awesome: "^4.7.0",
+- jquery: "^3.6.0",
+- popper.js: "^1.16.1",
+- react: "^17.0.2",
+- react-bootstrap: "^1.5.2",
+- react-dom: "^17.0.2",
+- react-redux: "^7.2.6",
+- react-router-dom: "^6.2.1",
+- react-scripts: "5.0.0",
+- redux: "^4.1.2",
+- Devise
 
 ## Who is our target audience?
 
@@ -189,9 +220,8 @@ Payment Gateway Data Flow Diagram.
 
 ## Wireframes
 
-##### Please note:
-Our front end UI design, changed from what was originally pitched in our wireframes. Why? To adapt to challenges our team had revolving integrating from and back end. What did we learn? Importance of communication. We did consider that in the real world, clients often request styling changes. Due to time constraints we were not able resolve this challenge to the best of our ability. 
-
+Please note:
+Our front end UI design, changed from what was originally pitched in our wireframes. Why? To adapt to challenges our team had revolving integrating from and back end. What did we learn? Importance of communication. We did consider that in the real world, clients often request styling changes. Due to time constraints we were not able resolve this challenge to the best of our ability.
 
 Welcome to our landing page.
 
@@ -253,7 +283,7 @@ Contributions are not only welcome but are what make the open source community a
 
 Amy Droungas - Organising documentation, Front End development, Wireframing, User Stories, Testing Assistant. [Github]
 
-Redgerald Nyamadzavo - Back-End development, Diagram specialist and Databasing, Testing, Deploy.  [Github]
+Redgerald Nyamadzavo - Back-End development, Diagram specialist and Databasing. [Github]
 
 Mathew Lawton - Organising documentation, Front-End development, Back-End Development assistant, Wireframing and Architecture design. [Github](https://github.com/matlawton)
 
