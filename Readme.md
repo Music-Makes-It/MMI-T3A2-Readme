@@ -3,9 +3,9 @@
 A group project for Coder Academy - Full Stack App, Part A and Part B documentation.
 You can find the authors of this organisation, repositories and project [here](https://github.com/Music-Makes-It/MMI-T3A2-Readme#authors).
 
-## Deployment to Netlify
+## Deployment to Heroku
 
-Here is the link to our deployed website - [Click here.](/#)
+Here is the link to our deployed website - [Click here.](https://musicmakeitapp.herokuapp.com/)
 
 ## Front-End Repository
 
@@ -14,6 +14,16 @@ Here is the link to our Front-End GitHub repo - [Click here.](https://github.com
 ## Back-End Repository
 
 Here is the link to our Back-End GitHub repo - [Click here.](https://github.com/Music-Makes-It/music_make_it_api)
+
+## Testing
+
+**Postman**
+Here is the link to our postman http requests to our DB - [Click here.](https://documenter.getpostman.com/view/8505438/UVeGrRou#613505e9-66bd-4fbf-80f4-e553fc240b36)
+
+Here is the link to Front-End Testing repo - [Click here.](https://documenter.getpostman.com/view/8505438/UVeGrRou#613505e9-66bd-4fbf-80f4-e553fc240b36)
+
+Here is evidence of testing with Cypress.
+![Screen shot of testing](Resources/Screen_Shot_2022-02-13_at_9.46.57_pm.png "Evidence of testing results")
 
 ## About our project, What is Music Makes It?
 
@@ -107,6 +117,10 @@ Day Five **Part B** - 08/02/2022
 Day Six **Part B** - 10/02/2022
 
 ![Screen shot of our Trello board day 6](Resources/Trello-day2-PartB.png "Screen shot of our Trello board day 6")
+
+Day Six **Part B** - 13/02/2022
+
+![Screen shot of our Trello board day 7](Resources/Trello-day3-PartB.png "Screen shot of our Trello board day 7")
 
 ## User Stories
 
@@ -283,7 +297,7 @@ Contributions are not only welcome but are what make the open source community a
 
 Amy Droungas - Organising documentation, Front End development, Wireframing, User Stories, Testing Assistant. [Github]
 
-Redgerald Nyamadzavo - Back-End development, Diagram specialist and Databasing. [Github]
+Redgerald Nyamadzavo - Back-End development, Diagram specialist and Databasing, Deployment. [Github]
 
 Mathew Lawton - Organising documentation, Front-End development, Back-End Development assistant, Wireframing and Architecture design. [Github](https://github.com/matlawton)
 
