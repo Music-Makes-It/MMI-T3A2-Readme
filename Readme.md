@@ -118,7 +118,7 @@ Day Six **Part B** - 10/02/2022
 
 ![Screen shot of our Trello board day 6](Resources/Trello-day2-PartB.png "Screen shot of our Trello board day 6")
 
-Day Six **Part B** - 13/02/2022
+Day Seven **Part B** - 13/02/2022
 
 ![Screen shot of our Trello board day 7](Resources/Trello-day3-PartB.png "Screen shot of our Trello board day 7")
 
@@ -199,10 +199,8 @@ I do not want other users to see the items in my checkout cart.
 Here are the third-party apps and services we will use to develop the 'Music Makes It', project.
 
 - Devise. (Auth)
-- Heroku. (Cloud, Back-End)
-- Netlify. (Front-End)
+- Heroku. (Cloud, Front-End, Back-End)
 - Trello
-- Stripe
 - Git
 - GitHub
 - Balsamiq(Wireframes)
@@ -234,7 +232,8 @@ Payment Gateway Data Flow Diagram.
 
 ## Wireframes
 
-Please note:
+**Please note:**
+
 Our front end UI design, changed from what was originally pitched in our wireframes. Why? To adapt to challenges our team had revolving integrating from and back end. What did we learn? Importance of communication. We did consider that in the real world, clients often request styling changes. Due to time constraints we were not able resolve this challenge to the best of our ability.
 
 Welcome to our landing page.
