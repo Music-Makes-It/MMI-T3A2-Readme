@@ -20,7 +20,7 @@ Here is the link to our Back-End GitHub repo - [Click here.](https://github.com/
 **Postman**
 Here is the link to our postman http requests to our DB - [Click here.](https://documenter.getpostman.com/view/8505438/UVeGrRou#613505e9-66bd-4fbf-80f4-e553fc240b36)
 
-Here is the link to Front-End Testing repo - [Click here.](https://documenter.getpostman.com/view/8505438/UVeGrRou#613505e9-66bd-4fbf-80f4-e553fc240b36)
+Here is the link to Front-End Testing repo - [Click here.](https://github.com/Music-Makes-It/Front-End-test-)
 
 Here is evidence of testing with Cypress.
 ![Screen shot of testing](Resources/Screen_Shot_2022-02-13_at_9.46.57_pm.png "Evidence of testing results")
