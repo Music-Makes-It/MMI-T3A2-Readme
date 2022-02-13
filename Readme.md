@@ -189,6 +189,10 @@ Payment Gateway Data Flow Diagram.
 
 ## Wireframes
 
+##### Please note:
+Our front end UI design, changed from what was originally pitched in our wireframes. Why? To adapt to challenges our team had revolving integrating from and back end. What did we learn? Importance of communication. We did consider that in the real world, clients often request styling changes. Due to time constraints we were not able resolve this challenge to the best of our ability. 
+
+
 Welcome to our landing page.
 
 ![Wireframe created by Amy in Balsamiq #1](<Resources/T3A2_Wireframes/Landing_Page(all).png> "Wireframe of landing page")
@@ -247,9 +251,9 @@ Contributions are not only welcome but are what make the open source community a
 
 ## Authors
 
-Amy Droungas - Organising documentation. [Github]
+Amy Droungas - Organising documentation, Front End development, Wireframing, User Stories, Testing Assistant. [Github]
 
-Redgerald Nyamadzavo - Back-End development, Diagram specialist and Databasing. [Github]
+Redgerald Nyamadzavo - Back-End development, Diagram specialist and Databasing, Testing, Deploy.  [Github]
 
 Mathew Lawton - Organising documentation, Front-End development, Back-End Development assistant, Wireframing and Architecture design. [Github](https://github.com/matlawton)
 
